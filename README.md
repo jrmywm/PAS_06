@@ -1,0 +1,6 @@
+
+Program ini adalah hasil dari Group 6 Pemograman Lanjut yang merupakan sebuah sistem manajemen pulsa dan kuota untuk nomor telepon, yang mengimplementasikan berbagai konsep penting dalam pemrograman seperti penggunaan struktur data linked list, file handling, dan algoritma sorting. 
+Dari mempelajari dan mengembangkan program ini, kita dapat memahami cara mengelola data dinamis yang disimpan dalam file, bagaimana membaca dan menulis data tersebut ke dalam struktur data yang sesuai, 
+serta cara mengimplementasikan fungsi pencarian dan penyortiran data secara efisien. Keuntungan dari mempelajari program ini termasuk meningkatkan kemampuan problem-solving dan keterampilan pemrograman, terutama dalam C, 
+yang dapat diterapkan pada berbagai aplikasi nyata lainnya. Program ini juga mengajarkan pentingnya user experience dengan memberikan antarmuka yang terstruktur dan rapi, sehingga pengguna dapat berinteraksi dengan sistem secara efektif. 
+Implementasi paralel dengan OpenMP menambah wawasan mengenai pemrograman paralel yang dapat meningkatkan efisiensi program. Secara keseluruhan, program ini memberikan pengalaman komprehensif dalam pengembangan perangkat lunak dari desain, implementasi, hingga optimasi.
