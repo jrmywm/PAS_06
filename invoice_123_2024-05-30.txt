@@ -1,0 +1,11 @@
+====================================
+             INVOICE                
+====================================
+Nomor Telepon       : 123
+Tanggal Pembelian   : 2024-05-30
+Paket Data          : 15GB/30
+Harga Asli          : Rp 65000
+Diskon              : 12%
+Harga Setelah Diskon: Rp 57200
+====================================
+Terima kasih telah membeli paket internet!
